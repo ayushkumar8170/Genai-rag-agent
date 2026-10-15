@@ -1,0 +1,22 @@
+[
+  {"question": "Can I get my money back if I cancel two weeks after buying an annual plan?", "expected_doc": "refund_policy.md"},
+  {"question": "How long does it take for a refund to reach my card?", "expected_doc": "refund_policy.md"},
+  {"question": "What compensation do we get if the service is down for a big part of the month?", "expected_doc": "sla_and_uptime.md"},
+  {"question": "When is scheduled maintenance performed?", "expected_doc": "sla_and_uptime.md"},
+  {"question": "What happens if I exceed the number of API calls allowed per minute?", "expected_doc": "api_rate_limits.md"},
+  {"question": "How many items can a bulk request contain?", "expected_doc": "api_rate_limits.md"},
+  {"question": "Is my data encrypted?", "expected_doc": "security_and_data_privacy.md"},
+  {"question": "Where is European customer data hosted?", "expected_doc": "security_and_data_privacy.md"},
+  {"question": "Do you train AI models on our content?", "expected_doc": "security_and_data_privacy.md"},
+  {"question": "Which single sign-on protocols are supported?", "expected_doc": "security_and_data_privacy.md"},
+  {"question": "How many contacts can I import from a CSV file?", "expected_doc": "onboarding_guide.md"},
+  {"question": "What roles can I assign to teammates?", "expected_doc": "onboarding_guide.md"},
+  {"question": "When are the training webinars held?", "expected_doc": "onboarding_guide.md"},
+  {"question": "How fast do you respond to a complete outage?", "expected_doc": "incident_response.md"},
+  {"question": "How often is the status page updated during a major incident?", "expected_doc": "incident_response.md"},
+  {"question": "How soon is the post-mortem published after an incident?", "expected_doc": "incident_response.md"},
+  {"question": "What does the Business plan cost per user?", "expected_doc": "pricing_plans.md"},
+  {"question": "Is there a free trial and do I need a credit card?", "expected_doc": "pricing_plans.md"},
+  {"question": "How much extra do I pay for additional storage?", "expected_doc": "pricing_plans.md"},
+  {"question": "What is the minimum number of seats for Enterprise?", "expected_doc": "pricing_plans.md"}
+]
